@@ -1,2 +1,4 @@
 # UI-Finance-Tracker
 My own Finance Tracker I did.
+
+PLEASE NOTE: THIS APP DOES NOT ACCOUNT FOR CURRENCY EXCHANGE RATES
