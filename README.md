@@ -6,9 +6,9 @@ Features
 - Add / Edit / Delete transactions
 - Dashboard (Balance, Income, Expenses)
 - Recent transactions view
-- Multi-language support (DE / EN / …)
+- Multi-language support (DE / EN / RO / RU/ PL)
 - Local JSON storage
-- Input validation (supports comma/decimal formats)
+
 
 Tech
 - Python
@@ -29,7 +29,7 @@ For any bug reports: Please DM me
 
 
 
-PLEASE NOTE: THIS APP DOES NOT ACCOUNT FOR CURRENCY EXCHANGE RATES
+- PLEASE NOTE: THIS APP DOES NOT ACCOUNT FOR CURRENCY EXCHANGE RATES
 
 Known Bugs:
 
