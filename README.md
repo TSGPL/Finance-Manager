@@ -39,8 +39,6 @@ A desktop finance tracker with a modern UI.
 - Currency changes in settings do not update previously saved transactions or all dashboard values consistently.
 - In some cases, edited transactions may not correctly update their type (income/expense) until refreshed.
 
-## Feature Improvements
-
 ## Planned Improvements
 
 - Add edit/delete buttons directly on each transaction card for better usability
